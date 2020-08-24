@@ -1,5 +1,6 @@
 {
   "name": "nestjs-metatags-generator",
+  "version": "1.0.1",
   "description": "SEO meta tags generator for NestJS",
   "keywords": [
     "nodejs",
@@ -9,7 +10,6 @@
     "typescript",
     "nestjs"
   ],
-  "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {

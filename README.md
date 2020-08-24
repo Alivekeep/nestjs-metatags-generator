@@ -1,13 +1,5 @@
 # NestJS meta tags generator
 
-Meta tags generator for NestJS MVC. Should be nice for SEO purposes.
-
-### Installation
-
-```shell script
-npm install nestjs-metatags-generator
-```
-
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
 
@@ -15,6 +7,14 @@ npm install nestjs-metatags-generator
 [npm-url]: https://npmjs.org/package/nestjs-metatags-generator
 [download-image]: https://img.shields.io/npm/dm/nestjs-metatags-generator.svg?style=flat-square
 [download-url]: https://npmjs.org/package/nestjs-metatags-generator
+
+Meta tags generator for NestJS MVC. Should be nice for SEO purposes.
+
+### Installation
+
+```shell script
+npm install nestjs-metatags-generator
+```
 
 ### How to use
 
