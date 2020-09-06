@@ -1,6 +1,6 @@
 {
   "name": "nestjs-metatags-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SEO meta tags generator for NestJS",
   "keywords": [
     "nodejs",
@@ -29,12 +29,12 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "metatags-generator": "^1.1.5"
+    "metatags-generator": "^1.1.7"
   },
   "devDependencies": {
-    "@nestjs/common": "^7.4.2",
-    "@nestjs/core": "^7.4.2",
-    "@types/node": "^14.6.0",
+    "@nestjs/common": "^7.4.4",
+    "@nestjs/core": "^7.4.4",
+    "@types/node": "^14.6.4",
     "nodemon": "^2.0.4",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",

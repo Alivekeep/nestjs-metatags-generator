@@ -10,6 +10,9 @@
 
 Meta tags generator for NestJS MVC. Should be nice for SEO purposes.
 
+In general, generator can make ~10k records per seconds and use ~80Mb memory for this.
+That's mean meta tags generation not be bottleneck with up to 10k RPS.
+
 ### Installation
 
 ```shell script
